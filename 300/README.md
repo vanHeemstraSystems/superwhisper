@@ -4,4 +4,10 @@ In this [guide](https://rolloutit.net/code-without-typing-integration-between-cu
 
 Whether you’re someone who prefers hands-free interaction or just looking to boost productivity, these tools make coding more accessible and efficient.
 
+## 100 - What Are Cursor AI and Superwhisper?
+
+See [README.md](./100/README.md)
+
+
+
 == WE ARE HERE ==
