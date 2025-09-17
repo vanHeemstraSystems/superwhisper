@@ -1,4 +1,4 @@
-# 400 - Pro Tips for an Optimized Workflow
+# 300 - Pro Tips for an Optimized Workflow
 
 ## 100 - Customizing Voice Commands
 
