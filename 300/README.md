@@ -11,5 +11,3 @@ See [README.md](./100/README.md)
 ## 200 - Setting Up Cursor AI and Superwhisper Together
 
 See [README.md](./200/README.md)
-
-== WE ARE HERE ==
