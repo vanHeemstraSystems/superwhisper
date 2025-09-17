@@ -6,4 +6,8 @@ Before we dive into the hands-on section, it’s important to understand how to 
 
 See [README.md](./100/README.md)
 
+## 200 - Step 2: Set Up Superwhisper’s New Coding Mode for Cursor App
+
+See [README.md](./200/README.md)
+
 MORE
