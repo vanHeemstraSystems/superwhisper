@@ -26,4 +26,4 @@ Navigate to Superwhisper’s settings to create a new mode. To do this:
 
 <img width="1288" height="488" alt="Image" src="https://github.com/user-attachments/assets/218af240-0ddc-4869-8063-0374a0b16dc7" />
 
-This setup enables the Python coding mode, which is now ready to capture your spoken prompts, allowing you to build Python scripts entirely with voice commands. 
+This setup enables the **Python Coding** mode, which is now ready to capture your spoken prompts, allowing you to build Python scripts entirely with voice commands. 
