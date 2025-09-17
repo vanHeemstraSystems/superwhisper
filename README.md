@@ -1,2 +1,4 @@
-# superwhisper
-SuperWhisper
+superwhisper
+# SuperWhisper
+
+- [References](./REFERENCES.md)
