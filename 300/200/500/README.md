@@ -8,4 +8,6 @@ See [README.md](./100/README.md)
 
 See [README.md](./200/README.md)
 
-MORE
+## 300 - Enhanced Focus During Pair Programming
+
+See [README.md](./300/README.md)
