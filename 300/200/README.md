@@ -13,15 +13,3 @@ See [README.md](./200/README.md)
 ## 300 - Step 3: Speak and Code
 
 See [README.md](./300/README.md)
-
-## 400 - Pro Tips for an Optimized Workflow
-
-See [README.md](./400/README.md)
-
-## 500 - Real-World Applications of Hands-Free Coding
-
-See [README.md](./500/README.md)
-
-## 600 - A Step Towards Artificial General Intelligence (AGI)
-
-See [README.md](./600/README.md)
