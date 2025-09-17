@@ -14,6 +14,10 @@ Navigate to Superwhisper’s settings to create a new mode. To do this:
 
 <img width="1272" height="798" alt="Image" src="https://github.com/user-attachments/assets/bb319abc-1642-4743-8557-cbf18c9ba218" />
 
-4. 
+4. In the dialog box, create a new mode named **Python Coding** and select **Activate in Cursor App** to link this new mode with **Cursor AI** for hands-free integration.
+
+<img width="1499" height="1600" alt="Image" src="https://github.com/user-attachments/assets/88c7e636-e9fd-4e12-9bd4-bbe261981ee5" />
+
+5. 
 
 MORE
