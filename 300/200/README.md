@@ -22,6 +22,6 @@ See [README.md](./400/README.md)
 
 See [README.md](./500/README.md)
 
-## 600 - A Step Towards AGI
+## 600 - A Step Towards Artificial General Intelligence (AGI)
 
 See [README.md](./600/README.md)
