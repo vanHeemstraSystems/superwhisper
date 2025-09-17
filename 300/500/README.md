@@ -1,4 +1,4 @@
-# 600 - A Step Towards Artificial General Intelligence (AGI)
+# 500 - A Step Towards Artificial General Intelligence (AGI)
 
 The integration of tools like Cursor AI and Superwhisper is a step closer to making **Artificial General Intelligence** (**AGI**) possible. 
 
