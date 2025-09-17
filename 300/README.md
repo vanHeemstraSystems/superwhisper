@@ -11,3 +11,15 @@ See [README.md](./100/README.md)
 ## 200 - Setting Up Cursor AI and Superwhisper Together
 
 See [README.md](./200/README.md)
+
+## 300 - Pro Tips for an Optimized Workflow
+
+See [README.md](./300/README.md)
+
+## 400 - Real-World Applications of Hands-Free Coding
+
+See [README.md](./400/README.md)
+
+## 500 - A Step Towards Artificial General Intelligence (AGI)
+
+See [README.md](./500/README.md)
