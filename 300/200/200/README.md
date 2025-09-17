@@ -20,6 +20,10 @@ Navigate to Superwhisper’s settings to create a new mode. To do this:
 
 5. With Superwhisper running, activate the **Python Coding** mode using the keyboard shortcut **Option + Spacebar**. This shortcut lets you quickly toggle into coding mode whenever you need to start dictating your code.
 
-=== IMAGE GOES HERE ===   
+<img width="1232" height="444" alt="Image" src="https://github.com/user-attachments/assets/e02c192c-7c1a-45dd-a0e1-7c1cd566410a" />  
+
+6. If the selected mode is incorrect, click on the name of the model and change it to your custom model named **Python Coding**.
+
+== IMAGE GOES HERE ==
 
 MORE
