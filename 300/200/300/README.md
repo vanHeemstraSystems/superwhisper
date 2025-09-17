@@ -16,4 +16,12 @@ If you need to make changes, you can use voice commands like:
 
 <img width="1557" height="1600" alt="Image" src="https://github.com/user-attachments/assets/e4a27f8f-f7bc-4836-8b69-7d374ec6c70d" />
 
+Let’s add a function that generates usernames from the customer’s name and email address:
+
+**Voice Command**: "*Define a function named create_username that takes a person’s name and email address and generates a username with the format: first letter of first name, followed by last name, all lowercase.*"
+
+Cursor AI will create the function like this:
+
+<img width="1600" height="1564" alt="Image" src="https://github.com/user-attachments/assets/b34c7971-ce4b-413b-9146-1210fbbc3a58" />
+
 MORE 
