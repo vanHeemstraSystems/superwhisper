@@ -24,4 +24,12 @@ Cursor AI will create the function like this:
 
 <img width="1600" height="1564" alt="Image" src="https://github.com/user-attachments/assets/b34c7971-ce4b-413b-9146-1210fbbc3a58" />
 
-MORE 
+You can further refine the function with additional commands, for example:
+
+**Voice Command**: "*Ensure the first and last names are lowercase and use only the first character of the last name.*"
+
+Next you can extract the state code from a customer’s address using regular expressions:
+
+**Voice Command**: "*Write a function named get_state_code that extracts the state code from an address string using regular expressions.*"
+
+This allows you to easily extract state information from the customer data.
